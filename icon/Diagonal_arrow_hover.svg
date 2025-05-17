@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 595.28 590.18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="595.28" height="590.18"/>
+    </clipPath>
+  </defs>
+  <rect id="Artboard1" class="cls-1" width="595.28" height="590.18"/>
+  <g class="cls-3">
+    <path class="cls-2" d="M515.61,0c21.32,0,41.26,8.31,56.04,22.69,14.98,14.58,23.62,34.47,23.62,55.71v433.37c0,43.26-35.71,78.4-79.66,78.4s-79.66-35.14-79.66-78.4v-242.77l-299.7,297.93c-30.91,30.77-81.4,31.01-112.63.55-31.27-30.45-31.51-80.13-.55-110.87L324.67,156.81H79.66C35.71,156.81,0,121.66,0,78.4S35.71,0,79.66,0h435.95Z"/>
+  </g>
+</svg>
